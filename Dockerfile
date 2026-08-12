@@ -21,5 +21,5 @@ COPY . .
 # 6. Expose Ports
 EXPOSE 8501 8000
 
-# 7. Start Streamlit Server
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# 7. Start Streamlit with CORS disabled & Headless mode enabled
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.enableCORS=false", "--server.enableXsrfProtection=false"]
