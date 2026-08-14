@@ -1,0 +1,11 @@
+District,Latitude,Longitude,Vehicles,Road_Capacity,Accidents,Congestion_Percent,Traffic_Level
+Mumbai,19.076,72.8777,1800,2500,12,72.0,Medium
+Pune,18.5204,73.8567,1500,2200,8,68.2,Medium
+Thane,19.2183,72.9781,1600,2100,10,76.2,Medium
+Nashik,19.9975,73.7898,900,1600,4,56.2,Medium
+Nagpur,21.1458,79.0882,1000,1800,5,55.6,Medium
+Kolhapur,16.705,74.2433,650,1200,3,54.2,Medium
+Solapur,17.6599,75.9064,700,1300,3,53.8,Medium
+Chhatrapati Sambhajinagar,19.8762,75.3433,800,1400,4,57.1,Medium
+Navi Mumbai,19.033,73.0297,1400,2000,7,70.0,Medium
+Satara,17.6805,74.0183,500,1000,2,50.0,Low

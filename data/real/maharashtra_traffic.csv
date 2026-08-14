@@ -1,0 +1,9 @@
+District,Highway,Latitude,Longitude,Hour,Traffic,Speed_kmph,Accidents,Road_Capacity
+Mumbai,Mumbai-Pune Expressway,19.076,72.8777,8,1250,62,3,2000
+Pune,Mumbai-Pune Expressway,18.5204,73.8567,9,1380,55,2,1800
+Nashik,NH-60,19.9975,73.7898,18,820,68,1,1400
+Nagpur,NH-44,21.1458,79.0882,19,760,72,1,1500
+Aurangabad,NH-52,19.8762,75.3433,18,690,65,0,1200
+Kolhapur,NH-48,16.705,74.2433,17,730,70,1,1300
+Thane,Eastern Express Highway,19.2183,72.9781,8,1420,48,3,1900
+Navi Mumbai,Sion-Panvel Highway,19.033,73.0297,18,1320,52,2,1800
